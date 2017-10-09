@@ -1,7 +1,7 @@
 import tensorflow as tf
 import numpy as np
 
-data = np.loadtxt('./data.txt', delimiter=',',
+data = np.loadtxt(fname='data.txt', delimiter=',',
                   unpack=True, dtype='float32')
 
 x_data = np.transpose(data[0:2])

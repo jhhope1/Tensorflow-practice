@@ -20,11 +20,11 @@ print('r_data.shape = ',r_data.shape)
 print('v_data.shape = ',v_data.shape)
 print('des_data.shape = ',des_data.shape)
 
-W1=tf.Variable(tf.random_normal([9, 10], -0.01 , 0.01))
-W2=tf.Variable(tf.random_normal([10, 1], -0.01 , 0.01))
+W1=tf.Variable(tf.random_normal([9, 20], -0.01 , 0.01))
+W2=tf.Variable(tf.random_normal([20, 3], -0.01 , 0.01))
 
 b1=tf.Variable(tf.zeros([10]))
-b2=tf.Variable(tf.zeros([1]))
+b2=tf.Variable(tf.zeros([3]))
 
 V_now=Vel
 Rx_now=Rx

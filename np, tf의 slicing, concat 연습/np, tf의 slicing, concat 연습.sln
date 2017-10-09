@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "np, tf의 slicing, concat 연습", "np, tf의 slicing, concat 연습\np, tf의 slicing, concat 연습.pyproj", "{394883B8-03ED-4B8D-8CA1-D45CA1ECB285}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{394883B8-03ED-4B8D-8CA1-D45CA1ECB285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{394883B8-03ED-4B8D-8CA1-D45CA1ECB285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0E0EB6F-C229-459A-9F54-E204BF3E5192}
+	EndGlobalSection
+EndGlobal

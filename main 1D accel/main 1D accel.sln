@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "main 1D accel", "main 1D accel\main 1D accel.pyproj", "{59113D35-6373-4C3A-BED3-7F79161839CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59113D35-6373-4C3A-BED3-7F79161839CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59113D35-6373-4C3A-BED3-7F79161839CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA34E8FF-93E2-4622-ACB1-412373A201B0}
+	EndGlobalSection
+EndGlobal

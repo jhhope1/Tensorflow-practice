@@ -23,7 +23,7 @@ print('des_data.shape = ',des_data.shape)
 W1=tf.Variable(tf.random_normal([9, 20], -0.01 , 0.01))
 W2=tf.Variable(tf.random_normal([20, 3], -0.01 , 0.01))
 
-b1=tf.Variable(tf.zeros([10]))
+b1=tf.Variable(tf.zeros([20]))
 b2=tf.Variable(tf.zeros([3]))
 
 V_now=Vel
